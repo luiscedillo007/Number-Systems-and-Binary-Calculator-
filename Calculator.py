@@ -1,5 +1,5 @@
 class Calculator:
-    
+    #class
     def baseNtobase10(self, userval='0', base='0', noInput=False):
         if noInput == False:
             print("")
